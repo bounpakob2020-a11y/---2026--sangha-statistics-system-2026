@@ -1,0 +1,7 @@
+{
+  "name": "ລະບົບສະຖິຕິພຣະສົງ-ສາມະເນນ (Sangha Statistics System)",
+  "description": "A comprehensive statistics management system for Buddhist monks and novices with administrative controls, detailed forms, and a data-driven dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
